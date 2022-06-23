@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anka\\Desktop\\examples\\exmamle002_helloUser\\exmamle002_helloUser.csproj": {}
+    "C:\\Users\\Anka\\Desktop\\examples\\example004_div\\example004_div.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anka\\Desktop\\examples\\exmamle002_helloUser\\exmamle002_helloUser.csproj": {
+    "C:\\Users\\Anka\\Desktop\\examples\\example004_div\\example004_div.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anka\\Desktop\\examples\\exmamle002_helloUser\\exmamle002_helloUser.csproj",
-        "projectName": "exmamle002_helloUser",
-        "projectPath": "C:\\Users\\Anka\\Desktop\\examples\\exmamle002_helloUser\\exmamle002_helloUser.csproj",
+        "projectUniqueName": "C:\\Users\\Anka\\Desktop\\examples\\example004_div\\example004_div.csproj",
+        "projectName": "example004_div",
+        "projectPath": "C:\\Users\\Anka\\Desktop\\examples\\example004_div\\example004_div.csproj",
         "packagesPath": "C:\\Users\\Anka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anka\\Desktop\\examples\\exmamle002_helloUser\\obj\\",
+        "outputPath": "C:\\Users\\Anka\\Desktop\\examples\\example004_div\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anka\\AppData\\Roaming\\NuGet\\NuGet.Config"
