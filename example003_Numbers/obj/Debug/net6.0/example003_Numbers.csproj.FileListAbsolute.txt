@@ -1,0 +1,15 @@
+C:\Users\Anka\Desktop\examples\example003_Numbers\obj\Debug\net6.0\example003_Numbers.csproj.AssemblyReference.cache
+C:\Users\Anka\Desktop\examples\example003_Numbers\obj\Debug\net6.0\example003_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anka\Desktop\examples\example003_Numbers\obj\Debug\net6.0\example003_Numbers.AssemblyInfoInputs.cache
+C:\Users\Anka\Desktop\examples\example003_Numbers\obj\Debug\net6.0\example003_Numbers.AssemblyInfo.cs
+C:\Users\Anka\Desktop\examples\example003_Numbers\obj\Debug\net6.0\example003_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Anka\Desktop\examples\example003_Numbers\bin\Debug\net6.0\example003_Numbers.exe
+C:\Users\Anka\Desktop\examples\example003_Numbers\bin\Debug\net6.0\example003_Numbers.deps.json
+C:\Users\Anka\Desktop\examples\example003_Numbers\bin\Debug\net6.0\example003_Numbers.runtimeconfig.json
+C:\Users\Anka\Desktop\examples\example003_Numbers\bin\Debug\net6.0\example003_Numbers.dll
+C:\Users\Anka\Desktop\examples\example003_Numbers\bin\Debug\net6.0\example003_Numbers.pdb
+C:\Users\Anka\Desktop\examples\example003_Numbers\obj\Debug\net6.0\example003_Numbers.dll
+C:\Users\Anka\Desktop\examples\example003_Numbers\obj\Debug\net6.0\refint\example003_Numbers.dll
+C:\Users\Anka\Desktop\examples\example003_Numbers\obj\Debug\net6.0\example003_Numbers.pdb
+C:\Users\Anka\Desktop\examples\example003_Numbers\obj\Debug\net6.0\example003_Numbers.genruntimeconfig.cache
+C:\Users\Anka\Desktop\examples\example003_Numbers\obj\Debug\net6.0\ref\example003_Numbers.dll
